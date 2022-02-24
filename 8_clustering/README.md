@@ -5,7 +5,7 @@
 - [Dimensionality reduction](./slides/slides_dimensionality_reduction.pdf)
 
 **Reading:**
-[An Introduction to Statistical Learning - Hastie et al. \[Sections 10.3, 10.2\]](https://www.statlearning.com/s/ISLR-Seventh-Printing-xwa7.pdf)
+[An Introduction to Statistical Learning - Hastie et al. \[Sections 10.3, 10.2\]](https://www.statlearning.com/s/ISLR-Seventh-Printing.pdf)
 
 **Videos:**
 - [Clustering | Unsupervised Learning | Introduction](https://www.youtube.com/watch?v=Ev8YbxPu_bQ) (3m)
@@ -35,6 +35,10 @@
 - https://habr.com/en/company/ods/blog/325654/
 - http://www.machinelearning.ru/wiki/images/5/52/Voron-ML-Clustering-SSL-slides.pdf
 - https://www.kaggle.com/kashnitsky/a7-demo-unsupervised-learning
+
+# Knowledge Check
+
+[Quiz](https://docs.google.com/forms/d/1JXZpqij3vIMjcXooHnNJbkr_Zc3z_FqQztX-BalSBo4/edit?usp=sharing)
 
 # Assignment
 
